@@ -5,7 +5,7 @@ export default function Farms() {
     <>   
     <h1>Farms</h1>
     <h2>If you would like to sign up to be a farmer E-mail us</h2>
-    <h3>Our current farms are </h3>
+    <h3>hello </h3>
     
     </>
     )
